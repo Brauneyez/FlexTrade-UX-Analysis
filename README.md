@@ -88,12 +88,22 @@ Total distinct users shows declining trend through the 4 years reviewed with <6,
   ![image](https://github.com/user-attachments/assets/cfbb7cb5-7546-402f-adb9-ab34fe8ce151)
 
 
+**FINDINGS, ACTIONABLE INSIGHTS & RECOMMENDATIONS**
+
+- What is the cause of the high bounce rate?
+
+- The negative feedbacks all pointed to issues with the App.
+
+	Checkout process, search feature, bugs and downtime on the App should be investigated and resolved.
+
+- Addressing the cause of the high bounce rate should reverse the downward trends in number of users.
+
+- Increase in number of users will increase conversion rates and rate of successful checkouts.
+
+- Flextrade must proactively consolidate on the positive feedback regarding products, price and excellent customer service to ensure    	referrals from existing customer leads to successful conversion by improving quality of stock, offering competitive prices, 	maintaining excellent customer service.
+
+- In addition, incentivise existing customer for loyalty by offering discounts based on purchase mileage (either by price or quantity).
 
 
 
-
-
-
- 
-
- 
+ ![image](https://github.com/user-attachments/assets/9f521ed9-750c-4064-a149-308bc357ee99)
