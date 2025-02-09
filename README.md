@@ -44,7 +44,8 @@ A Microsoft Excel analysis of e-commerce App perfomance.
 
 Total distinct users shows declining trend through the 4 years reviewed with <6,000 views and total cart additions just above 2,500.
 
-  ![image](https://github.com/user-attachments/assets/7346388e-2c48-4e68-b545-b7a3ab26ee13)
+  ![image](https://github.com/user-attachments/assets/3a3a296b-c5ea-4f15-a7ca-2287060cb426)
+
 
 
 **SESSION DURATIONS & BOUNCE RATE**
